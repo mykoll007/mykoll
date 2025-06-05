@@ -27,11 +27,9 @@
     <td>
       <h3>👨‍💻 Sobre mim</h3>
       <p>
-        Sou Desenvolvedor(a) Fullstack apaixonado(a) por tecnologia! <br>
-        Trabalho principalmente com React, Node.js, PHP e bancos relacionais. <br>
-        Amo transformar café em código ☕ e bugs em aprendizado. <br>
-        Atualmente estou estudando [Tecnologia/Curso atual]. <br>
-        Fã de jogos, desafios e tudo que envolva resolver problemas com lógica e criatividade.
+      **Olá! Sou o Mykoll, desenvolvedor web com foco em Front-end e integração com o Back-end.**<br>
+      Atuo como freelancer criando interfaces modernas, responsivas e acessíveis, além de desenvolver funcionalidades como login, autenticação, consumo de APIs e integração com banco de dados MySQL.<br>
+      Sou apaixonado por tecnologia e boas práticas, sempre buscando unir design, lógica e performance para entregar soluções completas e eficientes.
       </p>
     </td>
   </tr>
