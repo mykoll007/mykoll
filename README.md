@@ -22,7 +22,7 @@
 <table>
   <tr>
     <td width="160">
-      <img src="https://github.com/seuusuario.png" width="150" style="border-radius: 50%;" alt="Foto de perfil do GitHub">
+      <img src="https://github.com/mykoll007.png" width="150" style="border-radius: 50%;" alt="Foto de perfil do GitHub">
     </td>
     <td>
       <h3>👨‍💻 Sobre mim</h3>
@@ -59,18 +59,18 @@
 <table align="center">
   <tr>
     <td align="center">
-      <a href="https://www.linkedin.com/in/seu-linkedin">
+      <a href="https://www.linkedin.com/in/mykolldaniel">
         <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
       </a>
     </td>
     <td align="center">
-      <a href="mailto:seuemail@gmail.com">
+      <a href="mailto:mykoll.daniel@gmail.com">
         <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/seuusuario">
-        <img src="https://img.shields.io/github/followers/seuusuario?label=Follow&style=social" alt="GitHub">
+      <a href="https://github.com/mykoll007">
+        <img src="https://img.shields.io/github/followers/mykoll007?label=Follow&style=social" alt="GitHub">
       </a>
     </td>
   </tr>
