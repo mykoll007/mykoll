@@ -27,7 +27,7 @@
     <td>
       <h3>👨‍💻 Sobre mim</h3>
       <p>
-      **Olá! Sou o Mykoll, desenvolvedor web com foco em Front-end e integração com o Back-end.**<br>
+      👋 Olá! Sou o Mykoll, desenvolvedor web com foco em Front-end e integração com o Back-end.<br>
       Atuo como freelancer criando interfaces modernas, responsivas e acessíveis, além de desenvolver funcionalidades como login, autenticação, consumo de APIs e integração com banco de dados MySQL.<br>
       Sou apaixonado por tecnologia e boas práticas, sempre buscando unir design, lógica e performance para entregar soluções completas e eficientes.
       </p>
