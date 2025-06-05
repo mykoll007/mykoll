@@ -5,13 +5,13 @@
 <div align="center">
 
 <!-- Tecnologias que você usa -->
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge">
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP Badge">
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Badge">
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node Badge">
-<img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge">
 <img src="https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge">
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node Badge">
+<img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge">
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Badge">
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP Badge">
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge">
 <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite Badge">
 
@@ -42,14 +42,14 @@
 <br><br>
 
 <div style="display: flex;">
-  <img align='right' width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seuusuario&hide_progress=true&theme=radical" alt="Linguagens mais usadas">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=radical">
+  <img align='right' width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mykoll007&hide_progress=true&theme=radical" alt="Linguagens mais usadas">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=mykoll007&show_icons=true&theme=radical">
 </div>
 
 <br><br>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=seuusuario&theme=dracula" alt="GitHub Trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=mykoll007&theme=dracula" alt="GitHub Trophy">
 </p>
 
 ---
